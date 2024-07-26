@@ -1,0 +1,40 @@
+{
+    "charts": {},
+    "test": {},
+    "incubator": {
+        "immich": {
+            "app_readme": "<p>High performance self-hosted photo and video backup solution.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/immich\">https://truecharts.org/charts/stable/immich</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "High performance self-hosted photo and video backup solution.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/immich",
+            "location": "/home/runner/_work/catalog/catalog/stable/immich",
+            "latest_version": "15.13.9",
+            "latest_app_version": "1.105.1",
+            "latest_human_version": "1.105.1_15.13.9",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "immich",
+            "recommended": false,
+            "title": "Immich",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/immich-app/immich",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/immich",
+                "https://hub.docker.com/r/altran1502/immich-machine-learning",
+                "https://hub.docker.com/r/altran1502/immich-server"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/immich.webp"
+        }
+    }
+}
